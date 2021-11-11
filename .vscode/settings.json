@@ -1,0 +1,7 @@
+{
+    "name": "JavaSE-17",
+    "path": "C:\\Users\\Hastimal\\.jdks\\openjdk-17.0.1",
+    "default": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.view": "flat"
+}
