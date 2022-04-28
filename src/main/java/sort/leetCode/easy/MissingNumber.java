@@ -1,7 +1,5 @@
 package sort.leetCode.easy;
 
-import sort.lecture.CyclicSort;
-
 import java.util.Arrays;
 
 /**

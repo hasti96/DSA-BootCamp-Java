@@ -1,8 +1,5 @@
 package array.hard;
 
-
-import java.util.*;
-
 /**
  * Q1. https://leetcode.com/problems/first-missing-positive/
  */

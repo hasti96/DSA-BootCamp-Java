@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Fib",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.Fib",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.AllConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.CountConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.CanConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.BestSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch twilio",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.twilio",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.HowSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.CanSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch gridTraveler",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.gridTraveler",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.fibonacci",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValideParentheses",
+            "request": "launch",
+            "mainClass": "leetcode75.ValideParentheses",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FillingAnImage",
+            "request": "launch",
+            "mainClass": "array.easy.FillingAnImage",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixRotation",
+            "request": "launch",
+            "mainClass": "array.easy.MatrixRotation",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusOne",
+            "request": "launch",
+            "mainClass": "array.easy.PlusOne",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveDupFromSortArray",
+            "request": "launch",
+            "mainClass": "array.easy.RemoveDupFromSortArray",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindMissingPositiveNumber",
+            "request": "launch",
+            "mainClass": "array.hard.FindMissingPositiveNumber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxValueOfEquation",
+            "request": "launch",
+            "mainClass": "array.hard.MaxValueOfEquation",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstAndLastPositionOfElementOfArray",
+            "request": "launch",
+            "mainClass": "array.medium.FirstAndLastPositionOfElementOfArray",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber",
+            "request": "launch",
+            "mainClass": "array.medium.HouseRobber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetMatrixZeroes",
+            "request": "launch",
+            "mainClass": "array.medium.SetMatrixZeroes",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortColor",
+            "request": "launch",
+            "mainClass": "array.medium.SortColor",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrixDisplay",
+            "request": "launch",
+            "mainClass": "array.medium.SpiralMatrixDisplay",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix_II",
+            "request": "launch",
+            "mainClass": "array.medium.SpiralMatrix_II",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpiralMatrix_III",
+            "request": "launch",
+            "mainClass": "array.medium.SpiralMatrix_III",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddBinary",
+            "request": "launch",
+            "mainClass": "bitwise.easy.AddBinary",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowOfTwo",
+            "request": "launch",
+            "mainClass": "bitwise.lecture.PowOfTwo",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "bitwise.lecture.Power",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch RangeXOR",
+            "request": "launch",
+            "mainClass": "bitwise.lecture.RangeXOR",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetBits",
+            "request": "launch",
+            "mainClass": "bitwise.lecture.SetBits",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch HouseRobber(1)",
+            "request": "launch",
+            "mainClass": "leetcode75.HouseRobber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch RemoveNthNode",
+            "request": "launch",
+            "mainClass": "leetcode75.RemoveNthNode",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchSqrt",
+            "request": "launch",
+            "mainClass": "math.lecture.BinarySearchSqrt",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factors",
+            "request": "launch",
+            "mainClass": "math.lecture.Factors",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD_LCM",
+            "request": "launch",
+            "mainClass": "math.lecture.GCD_LCM",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewtonSqrt",
+            "request": "launch",
+            "mainClass": "math.lecture.NewtonSqrt",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "math.lecture.Prime",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sieve",
+            "request": "launch",
+            "mainClass": "math.lecture.Sieve",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "org.java.App",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.Palindrome",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringReversal",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.StringReversal",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfNaturalNum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.SumOfNaturalNum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "recursion.lecture.BinarySearch",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfDigit",
+            "request": "launch",
+            "mainClass": "recursion.lecture.SumOfDigit",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "recursion.lecture.factorial",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.lecture.fibonacci",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutation",
+            "request": "launch",
+            "mainClass": "recursion.lecture.permutation",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseNumber",
+            "request": "launch",
+            "mainClass": "recursion.lecture.reverseNumber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CyclicSort",
+            "request": "launch",
+            "mainClass": "sort.lecture.CyclicSort",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.ContainsDuplicate",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllDisappearedNumberInArray",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.FindAllDisappearedNumberInArray",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch MajorityElement",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.MajorityElement",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSortedArray",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.MergeSortedArray",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissingNumber",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.MissingNumber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetMismatch",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.SetMismatch",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "sort.leetCode.easy.TwoSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstMissingPositive",
+            "request": "launch",
+            "mainClass": "sort.leetCode.hard.FirstMissingPositive",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateNumber",
+            "request": "launch",
+            "mainClass": "sort.leetCode.medium.DuplicateNumber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindAllDuplicatesInArray",
+            "request": "launch",
+            "mainClass": "sort.leetCode.medium.FindAllDuplicatesInArray",
+            "projectName": "CommonClassroom"
+        }
+    ]
+}

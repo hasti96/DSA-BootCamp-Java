@@ -3,5 +3,8 @@
     "path": "C:\\Users\\Hastimal\\.jdks\\openjdk-17.0.1",
     "default": true,
     "java.configuration.updateBuildConfiguration": "automatic",
-    "maven.view": "flat"
+    "maven.view": "flat",
+    "java.dependency.packagePresentation": "hierarchical",
+    "editor.suggest.localityBonus": true,
+    "files.encoding": "utf8"
 }

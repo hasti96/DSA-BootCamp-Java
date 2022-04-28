@@ -11,7 +11,7 @@ public class BinarySearchSqrt {
 
     private static double sqrt(int n, int p) {
         int s = 0;
-        int mid = n/2;
+        // int mid = n/2;
         int e = n;
 
         double root = 0.0;
