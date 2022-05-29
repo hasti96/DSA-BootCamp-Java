@@ -6,6 +6,251 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch KthPermutation",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.hard.KthPermutation",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseWordInString",
+            "request": "launch",
+            "mainClass": "workAtTech.stringAndTries.ReverseWordInString",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "workAtTech.stringAndTries.Practice",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPalindromeInString",
+            "request": "launch",
+            "mainClass": "workAtTech.stringAndTries.LongestPalindromeInString",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sudoko",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.hard.Sudoko",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromePartition",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.PalindromePartition",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch RestoreIpAddress",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.RestoreIpAddress",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch GenerateParentheses",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.GenerateParentheses",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum2",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.CombinationSum2",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubSetSum",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.SubSetSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch TugOfWar",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.TugOfWar",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePath",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.UniquePath",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum1",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.CombinationSum1",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterCombinationsOfPhoneNumber",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.LetterCombinationsOfPhoneNumber",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerSubseq",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.IntegerSubseq",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringSubSquence",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.StringSubSquence",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPermutation",
+            "request": "launch",
+            "mainClass": "workAtTech.backtracking.medium.StringPermutation",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubSeq",
+            "request": "launch",
+            "mainClass": "recursion.lecture.SubSeq",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch SkipChar",
+            "request": "launch",
+            "mainClass": "recursion.lecture.SkipChar",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CombinationSum1",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.CombinationSum1",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordBreak",
+            "request": "launch",
+            "mainClass": "leetcode75.WordBreak",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch UniquePath",
+            "request": "launch",
+            "mainClass": "leetcode75.UniquePath",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordBreak",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.WordBreak",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Combinations",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.Combinations",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subset2",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.Subset2",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch Subsets",
+            "request": "launch",
+            "mainClass": "workAtTech.practiceContest.Subsets",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestIncreasingSubsequence",
+            "request": "launch",
+            "mainClass": "workAtTech.dynamicProgramming.medium.LongestIncreasingSubsequence",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutations",
+            "request": "launch",
+            "mainClass": "recursion.coderbyte.youtube.permutations",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch AllConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.AllConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.CountConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanConstruct",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.CanConstruct",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.BestSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.HowSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch CanSum",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.CanSum",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
+            "name": "Launch GridTraveller",
+            "request": "launch",
+            "mainClass": "recursion.freecodecamp.dynamicprogramming.tabulation.GridTraveller",
+            "projectName": "CommonClassroom"
+        },
+        {
+            "type": "java",
             "name": "Launch Fib",
             "request": "launch",
             "mainClass": "recursion.freecodecamp.dynamicprogramming.Fib",

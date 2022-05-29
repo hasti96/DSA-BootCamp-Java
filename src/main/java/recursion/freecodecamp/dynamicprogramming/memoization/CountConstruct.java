@@ -1,4 +1,4 @@
-package recursion.freecodecamp.dynamicprogramming;
+package recursion.freecodecamp.dynamicprogramming.memoization;
 
 import java.util.Arrays;
 import java.util.HashMap;

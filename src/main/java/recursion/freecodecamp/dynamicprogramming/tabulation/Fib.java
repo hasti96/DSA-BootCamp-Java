@@ -1,4 +1,4 @@
-package recursion.freecodecamp.dynamicprogramming;
+package recursion.freecodecamp.dynamicprogramming.tabulation;
 
 import java.util.Arrays;
 

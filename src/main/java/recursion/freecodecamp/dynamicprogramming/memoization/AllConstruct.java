@@ -1,4 +1,4 @@
-package recursion.freecodecamp.dynamicprogramming;
+package recursion.freecodecamp.dynamicprogramming.memoization;
 
 import java.util.ArrayList;
 import java.util.Arrays;
